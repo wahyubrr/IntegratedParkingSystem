@@ -1,4 +1,4 @@
-# Parking Area System
+# Integrated Parking System
 
 Sistem untuk penentuan tempat parkir, dan juga dapat mendata tempat parkir menggunakan database yang terhubung ke internet dan bisa diakses dari mana saja. 
 
