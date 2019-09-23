@@ -1,3 +1,4 @@
+<!-- Created by: Wahyu Berlianto -->
  <?php
 echo "<table style='border: solid 1px black;'>";
 echo "<tr><th>Id</th><th>Slot</th><th>Entry Date and Time</th></tr>";

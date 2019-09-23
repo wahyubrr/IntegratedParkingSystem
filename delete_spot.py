@@ -1,3 +1,4 @@
+# Created by: Wahyu Berlianto
 import requests
 
 url = 'http://localhost/development/delete_spot.php'
